@@ -1,6 +1,6 @@
 {
-  "name": "@ali_yousuf/cli-number-guessing",
-  "version": "1.0.0",
+  "name": "ma24-cli-number-guessing",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
